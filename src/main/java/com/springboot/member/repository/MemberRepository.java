@@ -1,4 +1,4 @@
-package com.springboot.member;
+package com.springboot.member.repository;
 
 import com.springboot.member.entity.Member;
 import org.springframework.data.repository.CrudRepository;
